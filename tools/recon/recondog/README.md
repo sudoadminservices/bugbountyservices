@@ -81,5 +81,5 @@ You can contribute in following ways:
 - Give suggestions to make it better
 - Fix issues & submit a pull request
 
-Do you want to have a conversation in private? Hit me up on [my twitter](https://twitter.com/s0md3v), inbox is open :) \
+
 Recon Dog is licensed under **Apache 2.0 License**.
