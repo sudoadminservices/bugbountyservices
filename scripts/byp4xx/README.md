@@ -11,7 +11,7 @@ A bash script to bypass "403 Forbidden" responses with well-known methods discus
 
 **Installation:**
 ```
-git clone https://github.com/lobuhi/byp4xx.git
+git clone https://github.com/sudoadminservices/bugbountyservices/scripts/byp4xx.git
 cd byp4xx
 chmod u+x byp4xx.sh
 ```
@@ -35,7 +35,4 @@ OPTIONS:
 - Allow redirects
 - Return the entire curl command if response is 200
 
-**Tips:**
-- You can add proxychains to use with BurpSuite
-- Interlace is a good option for multithreading multiples URLs
-- BONUS: **[Buy me a coffee... or a pizza! Stay cool! ^_^](https://buymeacoffee.com/lobuhi)**
+
